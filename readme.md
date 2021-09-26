@@ -2,6 +2,7 @@
 
 ## features:
 - 8 Macro buttons ranging from F13-F20
+- Seeeduino XIAO as microcontroller
 - WS2812B LED in the front (selectable color) that lights up brighter when pressed
 
 
